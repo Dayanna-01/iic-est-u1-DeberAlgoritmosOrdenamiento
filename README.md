@@ -1,7 +1,7 @@
 # 🧩 ESTRUCTURA DE DATOS
 
 **Nombre del Estudiante:** Janelly Dayanna Chacha Vélez  
-**Fecha:** Práctica 2 – 4 de Noviembre  
+**Fecha:** Práctica 5 - 4 de Noviembre  
 
 ---
 
@@ -9,7 +9,7 @@
 
 ### 📝 Descripción General
 En esta práctica se implementaron dos algoritmos de ordenamiento eficientes: **MergeSort** y **QuickSort**.  
-El programa está desarrollado en Java y permite elegir entre ambos métodos mediante un **menú simple**, además de activar o desactivar la opción de mostrar los **pasos intermedios** durante la ejecución.
+El programa está desarrollado en Java y permite elegir entre ambos métodos mediante un menú simple, además de activar o desactivar la opción de mostrar los pasos intermedios durante la ejecución.
 
 El usuario puede:
 1. Seleccionar el algoritmo de ordenamiento.  
