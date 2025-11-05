@@ -21,6 +21,6 @@ El usuario puede:
 ##Salidas esperadas
 1. Merge Sort
 ![alt text](assets/MergeSort.png)
-
+---
 2. Quick Sort
 ![alt text](assets/QuickSort.png)
